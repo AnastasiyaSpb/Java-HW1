@@ -1,0 +1,114 @@
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 0
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 1
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 2
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 3
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 4
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 5
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 6
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 0
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 1
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 2
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 3
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 4
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 5
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 6
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 0
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 1
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 2
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 3
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 4
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 5
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 6
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 0
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 1
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 2
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 3
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 4
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 5
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 6
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 0
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 1
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 2
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 3
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 4
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 5
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 6
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 0
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 1
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 2
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 3
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 4
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 5
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 6
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 0
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 1
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 2
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 3
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 4
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 5
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 6
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 0
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 1
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 2
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 3
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 4
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 5
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+INFO: element 6
+июн. 24, 2023 3:32:56 AM HW.HW_2_2 main
+WARNING: logger off
